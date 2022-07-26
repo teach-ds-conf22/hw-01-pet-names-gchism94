@@ -17,6 +17,7 @@ knitr::opts_chunk$set(
 library(tidyverse)
 library(openintro)
 library(ggrepel)
+library(ggimage)
 ```
 
 **This assignment has been adapted from [HW 01- Pet Names](https://datasciencebox.org/course-materials/hw-instructions/hw-01/hw-01-pet-names.html) on [Data Science in a Box](https://datasciencebox.org/).**

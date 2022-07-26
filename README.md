@@ -329,6 +329,7 @@ seattlepets %>%
      9 Dog     Max           186
     10 Dog     Molly         186
     # … with 16,813 more rows
+    # ℹ Use `print(n = ...)` to see more rows
 
 But this output isn’t exactly what we wanted. We wanted to know the most
 common cat and dog names, but there are barely any cats present in this
@@ -382,6 +383,7 @@ seattlepets %>%
      9 Dog     Luna          244
     10 Dog     Daisy         221
     # … with 43 more rows
+    # ℹ Use `print(n = ...)` to see more rows
 
 4.  Based on the previous output we can easily identify the most common
     cat and dog names in Seattle, but the output is sorted by `n` (the
