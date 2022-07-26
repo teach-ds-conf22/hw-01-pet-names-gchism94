@@ -1,7 +1,7 @@
 ---
 title: "HW 01 - Pet names"
-author: "Insert your name here"
-date: "Insert date here"
+author: "Greg Chism"
+date: "2022-July-26"
 format: pdf
 ---
 
@@ -16,7 +16,7 @@ library(openintro)
 
 ### Exercise 1
 
-There are \_\_\_ pets in the dataset.
+There are 13,920 pets in the dataset.
 
 ### Exercise 2
 
